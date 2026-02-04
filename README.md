@@ -55,16 +55,16 @@
 <!-- Projects -->
 <h1 align="center">Projects 👨‍💻</h1>
 <!-- Portfolio -->
-<h1 align="center">Portfolio 📊</h1>
-
+<h1 align="center">Portfolio </h1>
+<p align="center">
+    A complete portfolio showcasing my Data Science, Machine Learning and Analytics projects.
+  </p>
 <div align="center">
   <a href="https://e-portfolio-sable-pi.vercel.app/" target="_blank" rel="noreferrer">
     <img src="./static/portfolio-preview.png" alt="portfolio-preview" width="90%">
   </a>
 
-  <p align="center">
-    A complete portfolio showcasing my Data Science, Machine Learning and Analytics projects.
-  </p>
+  
 </div>
   </table>
 </div>
