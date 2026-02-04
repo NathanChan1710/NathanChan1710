@@ -1,19 +1,17 @@
-<h1 align="center">Hi 👋, I'm Nathan Chan Sing Man</h1>
+<h1 align="center">Hi , I'm Nathan Chan Sing Man</h1>
 
 <!-- Intro -->
 <p style="margin: 15px;" align="center">
     <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=data+scientist;minimalist+esthetic">
-    <h3 align="center">I'm Data Scientist</h3>
+    <!-- <h3 align="center">Data Scientist</h3> --> 
 </p>
 
-- 👨‍💻 All of my projects are available at [https://e-portfolio-sable-pi.vercel.app/]
+- All of my projects are available at [https://e-portfolio-sable-pi.vercel.app/]
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nathan.chansingman@gmail.com) 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nathan-chan-sing-man-560b10272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nathan-chan-sing-man-560b10272/" height="30" width="40" /></a>
 </p>
-
-# 💻 Tech Stack
 
 ### 🐍 Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -58,13 +56,3 @@
 
 ### 🗂️ Productivity & Organization
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nathan&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nathan&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nathan&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=nathan&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
