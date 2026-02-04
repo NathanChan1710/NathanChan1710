@@ -50,3 +50,21 @@
 
 ### Productivity & Organization
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+
+<!-- Projects -->
+<h1 align="center">My latest projects 👨‍💻</h1>
+<!-- Portfolio -->
+<h1 align="center">My Portfolio 📊</h1>
+
+<div align="center">
+  <a href="https://e-portfolio-sable-pi.vercel.app/" target="_blank" rel="noreferrer">
+    <img src="./static/portfolio-preview.png" alt="portfolio-preview" width="90%">
+  </a>
+
+  <p align="center">
+    A complete portfolio showcasing my Data Science, Machine Learning and Analytics projects.
+  </p>
+</div>
+  </table>
+</div>
