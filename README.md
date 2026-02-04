@@ -53,9 +53,9 @@
 
 
 <!-- Projects -->
-<h1 align="center">My latest projects 👨‍💻</h1>
+<h1 align="center">Projects 👨‍💻</h1>
 <!-- Portfolio -->
-<h1 align="center">My Portfolio 📊</h1>
+<h1 align="center">Portfolio 📊</h1>
 
 <div align="center">
   <a href="https://e-portfolio-sable-pi.vercel.app/" target="_blank" rel="noreferrer">
