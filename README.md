@@ -6,7 +6,7 @@
     <!-- <h3 align="center">Data Scientist</h3> --> 
 </p>
 
-- All of my projects are available at [https://e-portfolio-sable-pi.vercel.app/]
+- All of my projects are available at [https://nathanchan1710.github.io/Portfolio/]
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nathan.chansingman@gmail.com)  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nathan-chan-sing-man-560b10272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nathan-chan-sing-man-560b10272/" height="30" width="40" /></a>
@@ -60,7 +60,7 @@
     A complete portfolio showcasing my Data Science, Machine Learning and Analytics projects.
   </p>
 <div align="center">
-  <a href="https://e-portfolio-sable-pi.vercel.app/" target="_blank" rel="noreferrer">
+  <a href="https://nathanchan1710.github.io/Portfolio/" target="_blank" rel="noreferrer">
     <img src="./static/portfolio-preview.png" alt="portfolio-preview" width="90%">
   </a>
 
