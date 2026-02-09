@@ -61,7 +61,7 @@
   </p>
 <div align="center">
   <a href="https://nathanchan1710.github.io/Portfolio/" target="_blank" rel="noreferrer">
-    <img src="./static/portfolio-preview.png" alt="portfolio-preview" width="90%">
+    <img src="./portfolio-preview.png" alt="portfolio-preview" width="90%">
   </a>
 
   
