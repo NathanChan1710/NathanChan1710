@@ -5,8 +5,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=data+scientist;minimalist+esthetic">
     <!-- <h3 align="center">Data Scientist</h3> --> 
 </p>
-Currently pursuing a Bachelor’s degree in Data Science at the University of Paris Cité while working at Worldpanel by Numerator; I’m a Data Scientist in training, and here you can find my projects.
-- All of my projects are available at [https://nathanchansingman.netlify.app/]
+<p> </p>Currently pursuing a Bachelor’s degree in Data Science at the University of Paris Cité while working at Worldpanel by Numerator; I’m a Data Scientist in training, and here you can find my projects.</p>
+
+<p> - All of my projects are available at [https://nathanchansingman.netlify.app/]</p>
 <p align="left">
   <a href="mailto:nathan.chansingman@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
