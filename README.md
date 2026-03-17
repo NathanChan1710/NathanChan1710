@@ -73,7 +73,7 @@
     A complete portfolio showcasing my Data Science, Machine Learning and Analytics projects.
   </p>
 <div align="center">
-  <a href="https://nathanchan1710.github.io/Portfolio/" target="_blank" rel="noreferrer">
+  <a href="https://nathanchansingman.netlify.app/" target="_blank" rel="noreferrer">
     <img src="./portfolio-preview.png" alt="portfolio-preview" width="90%">
   </a>
 
