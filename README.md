@@ -66,7 +66,7 @@
 
 
 <!-- Projects -->
-<h1 align="center">Projects 👨‍💻</h1>
+<h1 align="center">Projects</h1>
 <!-- Portfolio -->
 <h1 align="center">Portfolio </h1>
 <p align="center">
