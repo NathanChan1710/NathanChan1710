@@ -10,6 +10,8 @@
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nathan.chansingman@gmail.com)  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nathan-chan-sing-man-560b10272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nathan-chan-sing-man-560b10272/" height="30" width="40" /></a>
+
+[![X](https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png)](https://x.com/NathanDatapro)
 </p>
 
 ### Programming Languages
