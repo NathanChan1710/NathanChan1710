@@ -64,9 +64,6 @@
 ### Productivity & Organization
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-
-<!-- Projects -->
-<h1 align="center">Projects</h1>
 <!-- Portfolio -->
 <h1 align="center">Portfolio </h1>
 <p align="center">
