@@ -55,7 +55,7 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Dataiku](https://img.shields.io/badge/Dataiku-00CCBC?style=for-the-badge&logo=dataiku&logoColor=white)
 ![Shiny](https://img.shields.io/badge/Shiny-0099F8?style=for-the-badge&logo=rstudio&logoColor=white)
-![MyReport]https://img.shields.io/badge/myreport-2AB2A3?style=for-the-badge&logo=rstudio&logoColor=white
+![MyReport](https://img.shields.io/badge/myreport-2AB2A3?style=for-the-badge&logo=rstudio&logoColor=white)
 <!--
 ### 🛠️ Version Control & Collaboration
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
