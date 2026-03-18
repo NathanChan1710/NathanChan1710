@@ -2,7 +2,7 @@
 
 <!-- Intro -->
 <p style="margin: 15px;" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=data+scientist;minimalist+esthetic">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=data+scientist;machine+learning">
     <!-- <h3 align="center">Data Scientist</h3> --> 
 </p>
 <p> </p>Currently pursuing a Bachelor’s degree in Data Science at the University of Paris Cité while working at Worldpanel by Numerator; I’m a Data Scientist in training, and here you can find my projects.</p>
